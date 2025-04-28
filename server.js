@@ -15,7 +15,7 @@ const notificationRoutes = require('./src/Routes/notificationRoutes');
 const registerMessageEvents = require('./src/Services/messageEvents');
 const { errorHandler } = require('./src/Utils/errorHandler');
 const logger = require('./src/Utils/logger');
-const connectDB = require('./src/utils/db');
+const connectDB = require('./src/Utils/db');
 
 // Load environment variables
 dotenv.config();
