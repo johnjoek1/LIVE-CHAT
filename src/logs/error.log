@@ -1,0 +1,2 @@
+[2025-04-27 12:40:23] ERROR: MongoDB connection error: {"error":{"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.john-api.4svlp.mongodb.net"}}
+[2025-04-27 13:08:33] ERROR: MongoDB connection error: {"error":{"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.john-api.4svlp.mongodb.net"}}

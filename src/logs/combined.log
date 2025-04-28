@@ -1,0 +1,255 @@
+[2025-04-23 15:01:01] INFO: Application has started 
+[2025-04-23 15:01:01] INFO: Using updated server.js version 2025-04-19 
+[2025-04-23 15:01:01] INFO: Restored server.js 2025-04-30 
+[2025-04-23 15:01:01] WARN: This is a warning message 
+[2025-04-23 15:01:02] DEBUG: Applied cors middleware 
+[2025-04-23 15:01:02] DEBUG: Applied express.json middleware 
+[2025-04-23 15:01:02] DEBUG: Applied io middleware 
+[2025-04-23 15:01:02] DEBUG: authRoutes: {"type":"function"}
+[2025-04-23 15:01:02] DEBUG: userRoutes: {"type":"function"}
+[2025-04-23 15:01:02] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-23 15:01:02] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-23 15:01:02] DEBUG: Applied authRoutes 
+[2025-04-23 15:01:02] DEBUG: Applied userRoutes 
+[2025-04-23 15:01:02] DEBUG: Applied messageRoutes 
+[2025-04-23 15:01:02] DEBUG: Applied notificationRoutes 
+[2025-04-23 15:01:02] DEBUG: Applied errorHandler middleware 
+[2025-04-23 15:01:02] INFO: Server running on port 5055 
+[2025-04-23 15:19:34] INFO: Application has started 
+[2025-04-23 15:19:34] INFO: Using updated server.js version 2025-04-19 
+[2025-04-23 15:19:34] INFO: Restored server.js 2025-04-30 
+[2025-04-23 15:19:34] WARN: This is a warning message 
+[2025-04-23 15:19:34] DEBUG: Applied cors middleware 
+[2025-04-23 15:19:34] DEBUG: Applied express.json middleware 
+[2025-04-23 15:19:34] DEBUG: Applied io middleware 
+[2025-04-23 15:19:34] DEBUG: authRoutes: {"type":"function"}
+[2025-04-23 15:19:34] DEBUG: userRoutes: {"type":"function"}
+[2025-04-23 15:19:34] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-23 15:19:34] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-23 15:19:34] DEBUG: Applied authRoutes 
+[2025-04-23 15:19:34] DEBUG: Applied userRoutes 
+[2025-04-23 15:19:34] DEBUG: Applied messageRoutes 
+[2025-04-23 15:19:34] DEBUG: Applied notificationRoutes 
+[2025-04-23 15:19:34] DEBUG: Applied errorHandler middleware 
+[2025-04-23 15:19:35] INFO: Server running on port 5055 
+[2025-04-23 15:22:11] INFO: Application has started 
+[2025-04-23 15:22:11] INFO: Using updated server.js version 2025-04-19 
+[2025-04-23 15:22:11] INFO: Restored server.js 2025-04-30 
+[2025-04-23 15:22:11] WARN: This is a warning message 
+[2025-04-23 15:22:11] DEBUG: Applied cors middleware 
+[2025-04-23 15:22:11] DEBUG: Applied express.json middleware 
+[2025-04-23 15:22:11] DEBUG: Applied io middleware 
+[2025-04-23 15:22:11] DEBUG: authRoutes: {"type":"function"}
+[2025-04-23 15:22:11] DEBUG: userRoutes: {"type":"function"}
+[2025-04-23 15:22:11] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-23 15:22:11] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-23 15:22:11] DEBUG: Applied authRoutes 
+[2025-04-23 15:22:11] DEBUG: Applied userRoutes 
+[2025-04-23 15:22:11] DEBUG: Applied messageRoutes 
+[2025-04-23 15:22:11] DEBUG: Applied notificationRoutes 
+[2025-04-23 15:22:11] DEBUG: Applied errorHandler middleware 
+[2025-04-23 15:22:11] INFO: Server running on port 5055 
+[2025-04-23 15:22:13] INFO: MongoDB connected successfully 
+[2025-04-23 15:54:14] INFO: Application has started 
+[2025-04-23 15:54:14] INFO: Using updated server.js version 2025-04-19 
+[2025-04-23 15:54:14] INFO: Restored server.js 2025-04-30 
+[2025-04-23 15:54:14] WARN: This is a warning message 
+[2025-04-23 15:54:14] DEBUG: Applied cors middleware 
+[2025-04-23 15:54:14] DEBUG: Applied express.json middleware 
+[2025-04-23 15:54:14] DEBUG: Applied io middleware 
+[2025-04-23 15:54:14] DEBUG: authRoutes: {"type":"function"}
+[2025-04-23 15:54:14] DEBUG: userRoutes: {"type":"function"}
+[2025-04-23 15:54:14] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-23 15:54:14] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-23 15:54:14] DEBUG: Applied authRoutes 
+[2025-04-23 15:54:14] DEBUG: Applied userRoutes 
+[2025-04-23 15:54:14] DEBUG: Applied messageRoutes 
+[2025-04-23 15:54:14] DEBUG: Applied notificationRoutes 
+[2025-04-23 15:54:14] DEBUG: Applied errorHandler middleware 
+[2025-04-23 15:54:14] INFO: Server running on port 5055 
+[2025-04-23 15:54:23] INFO: MongoDB connected successfully 
+[2025-04-26 16:04:30] INFO: Application has started 
+[2025-04-26 16:04:30] INFO: Using updated server.js version 2025-04-19 
+[2025-04-26 16:04:30] INFO: Restored server.js 2025-04-30 
+[2025-04-26 16:04:30] WARN: This is a warning message 
+[2025-04-26 16:04:30] DEBUG: Applied cors middleware 
+[2025-04-26 16:04:30] DEBUG: Applied express.json middleware 
+[2025-04-26 16:04:30] DEBUG: Applied io middleware 
+[2025-04-26 16:04:30] DEBUG: authRoutes: {"type":"function"}
+[2025-04-26 16:04:30] DEBUG: userRoutes: {"type":"function"}
+[2025-04-26 16:04:30] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-26 16:04:30] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-26 16:04:30] DEBUG: Applied authRoutes 
+[2025-04-26 16:04:30] DEBUG: Applied userRoutes 
+[2025-04-26 16:04:30] DEBUG: Applied messageRoutes 
+[2025-04-26 16:04:30] DEBUG: Applied notificationRoutes 
+[2025-04-26 16:04:30] DEBUG: Applied errorHandler middleware 
+[2025-04-26 16:04:30] INFO: Server running on port 5055 
+[2025-04-26 16:04:36] INFO: MongoDB connected successfully 
+[2025-04-26 17:48:43] INFO: Application has started 
+[2025-04-26 17:48:43] INFO: Using updated server.js version 2025-04-19 
+[2025-04-26 17:48:43] INFO: Restored server.js 2025-04-30 
+[2025-04-26 17:48:43] WARN: This is a warning message 
+[2025-04-26 17:48:43] DEBUG: Applied cors middleware 
+[2025-04-26 17:48:43] DEBUG: Applied express.json middleware 
+[2025-04-26 17:48:43] DEBUG: Applied io middleware 
+[2025-04-26 17:48:43] DEBUG: authRoutes: {"type":"function"}
+[2025-04-26 17:48:43] DEBUG: userRoutes: {"type":"function"}
+[2025-04-26 17:48:43] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-26 17:48:43] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-26 17:48:43] DEBUG: Applied authRoutes 
+[2025-04-26 17:48:43] DEBUG: Applied userRoutes 
+[2025-04-26 17:48:43] DEBUG: Applied messageRoutes 
+[2025-04-26 17:48:43] DEBUG: Applied notificationRoutes 
+[2025-04-26 17:48:43] DEBUG: Applied errorHandler middleware 
+[2025-04-26 17:48:43] INFO: Server running on port 5055 
+[2025-04-26 17:48:46] INFO: MongoDB connected successfully 
+[2025-04-26 17:51:53] INFO: Message sent successfully {"messageId":"680d0f299f239f44d9d06baa","senderId":"680907a24341213d42a00b6a","recipientId":"680cff6282f0df52550539f4"}
+[2025-04-26 17:52:52] INFO: Message sent successfully {"messageId":"680d0f649f239f44d9d06bae","senderId":"680907a24341213d42a00b6a","recipientId":"680cff6282f0df52550539f4"}
+[2025-04-26 18:30:06] INFO: Message sent successfully {"messageId":"680d181d9f239f44d9d06bc3","senderId":"680cff6282f0df52550539f4","recipientId":"680907a24341213d42a00b6a"}
+[2025-04-26 18:33:20] INFO: Message sent successfully {"messageId":"680d18e09f239f44d9d06bc8","senderId":"680907a24341213d42a00b6a","recipientId":"680cff6282f0df52550539f4"}
+[2025-04-27 11:59:44] INFO: Application has started 
+[2025-04-27 11:59:44] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 11:59:44] INFO: Restored server.js 2025-04-30 
+[2025-04-27 11:59:44] WARN: This is a warning message 
+[2025-04-27 11:59:45] DEBUG: Applied cors middleware 
+[2025-04-27 11:59:45] DEBUG: Applied express.json middleware 
+[2025-04-27 11:59:45] DEBUG: Applied io middleware 
+[2025-04-27 11:59:45] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 11:59:45] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 11:59:45] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 11:59:45] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 11:59:45] DEBUG: Applied authRoutes 
+[2025-04-27 11:59:45] DEBUG: Applied userRoutes 
+[2025-04-27 11:59:45] DEBUG: Applied messageRoutes 
+[2025-04-27 11:59:45] DEBUG: Applied notificationRoutes 
+[2025-04-27 11:59:45] DEBUG: Applied errorHandler middleware 
+[2025-04-27 11:59:45] INFO: Server running on port 5055 
+[2025-04-27 11:59:51] INFO: MongoDB connected successfully 
+[2025-04-27 12:40:23] INFO: Application has started 
+[2025-04-27 12:40:23] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 12:40:23] INFO: Restored server.js 2025-04-30 
+[2025-04-27 12:40:23] ERROR: MongoDB connection error: {"error":{"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.john-api.4svlp.mongodb.net"}}
+[2025-04-27 12:40:23] WARN: This is a warning message 
+[2025-04-27 12:40:23] DEBUG: Applied cors middleware 
+[2025-04-27 12:40:23] DEBUG: Applied express.json middleware 
+[2025-04-27 12:40:23] DEBUG: Applied io middleware 
+[2025-04-27 12:40:23] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 12:40:23] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 12:40:23] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 12:40:23] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 12:40:23] DEBUG: Applied authRoutes 
+[2025-04-27 12:40:23] DEBUG: Applied userRoutes 
+[2025-04-27 12:40:23] DEBUG: Applied messageRoutes 
+[2025-04-27 12:40:23] DEBUG: Applied notificationRoutes 
+[2025-04-27 12:40:23] DEBUG: Applied errorHandler middleware 
+[2025-04-27 12:40:23] INFO: Server running on port 5055 
+[2025-04-27 12:43:31] INFO: Application has started 
+[2025-04-27 12:43:31] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 12:43:31] INFO: Restored server.js 2025-04-30 
+[2025-04-27 12:43:31] WARN: This is a warning message 
+[2025-04-27 12:43:31] DEBUG: Applied cors middleware 
+[2025-04-27 12:43:31] DEBUG: Applied express.json middleware 
+[2025-04-27 12:43:31] DEBUG: Applied io middleware 
+[2025-04-27 12:43:31] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 12:43:31] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 12:43:31] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 12:43:31] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 12:43:31] DEBUG: Applied authRoutes 
+[2025-04-27 12:43:31] DEBUG: Applied userRoutes 
+[2025-04-27 12:43:31] DEBUG: Applied messageRoutes 
+[2025-04-27 12:43:31] DEBUG: Applied notificationRoutes 
+[2025-04-27 12:43:31] DEBUG: Applied errorHandler middleware 
+[2025-04-27 12:43:31] INFO: Server running on port 5055 
+[2025-04-27 12:43:38] INFO: MongoDB connected successfully 
+[2025-04-27 12:47:41] INFO: Application has started 
+[2025-04-27 12:47:41] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 12:47:41] INFO: Restored server.js 2025-04-30 
+[2025-04-27 12:47:41] WARN: This is a warning message 
+[2025-04-27 12:47:41] DEBUG: Applied cors middleware 
+[2025-04-27 12:47:41] DEBUG: Applied express.json middleware 
+[2025-04-27 12:47:41] DEBUG: Applied io middleware 
+[2025-04-27 12:47:41] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 12:47:41] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 12:47:41] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 12:47:41] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 12:47:41] DEBUG: Applied authRoutes 
+[2025-04-27 12:47:41] DEBUG: Applied userRoutes 
+[2025-04-27 12:47:41] DEBUG: Applied messageRoutes 
+[2025-04-27 12:47:41] DEBUG: Applied notificationRoutes 
+[2025-04-27 12:47:41] DEBUG: Applied errorHandler middleware 
+[2025-04-27 12:47:41] INFO: Server running on port 5055 
+[2025-04-27 12:47:48] INFO: MongoDB connected successfully 
+[2025-04-27 13:08:33] INFO: Application has started 
+[2025-04-27 13:08:33] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 13:08:33] INFO: Restored server.js 2025-04-30 
+[2025-04-27 13:08:33] WARN: This is a warning message 
+[2025-04-27 13:08:33] DEBUG: Applied cors middleware 
+[2025-04-27 13:08:33] DEBUG: Applied express.json middleware 
+[2025-04-27 13:08:33] DEBUG: Applied io middleware 
+[2025-04-27 13:08:33] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 13:08:33] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 13:08:33] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 13:08:33] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 13:08:33] DEBUG: Applied authRoutes 
+[2025-04-27 13:08:33] DEBUG: Applied userRoutes 
+[2025-04-27 13:08:33] DEBUG: Applied messageRoutes 
+[2025-04-27 13:08:33] DEBUG: Applied notificationRoutes 
+[2025-04-27 13:08:33] DEBUG: Applied errorHandler middleware 
+[2025-04-27 13:08:33] INFO: Server running on port 5055 
+[2025-04-27 13:08:33] ERROR: MongoDB connection error: {"error":{"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.john-api.4svlp.mongodb.net"}}
+[2025-04-27 13:13:40] INFO: Application has started 
+[2025-04-27 13:13:40] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 13:13:40] INFO: Restored server.js 2025-04-30 
+[2025-04-27 13:13:40] WARN: This is a warning message 
+[2025-04-27 13:13:40] DEBUG: Applied cors middleware 
+[2025-04-27 13:13:40] DEBUG: Applied express.json middleware 
+[2025-04-27 13:13:40] DEBUG: Applied io middleware 
+[2025-04-27 13:13:40] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 13:13:40] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 13:13:40] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 13:13:40] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 13:13:40] DEBUG: Applied authRoutes 
+[2025-04-27 13:13:40] DEBUG: Applied userRoutes 
+[2025-04-27 13:13:40] DEBUG: Applied messageRoutes 
+[2025-04-27 13:13:40] DEBUG: Applied notificationRoutes 
+[2025-04-27 13:13:40] DEBUG: Applied errorHandler middleware 
+[2025-04-27 13:13:40] INFO: Server running on port 5055 
+[2025-04-27 13:13:42] INFO: MongoDB connected successfully 
+[2025-04-27 13:58:26] INFO: Message sent successfully {"messageId":"680e29f146685a1d2da7a888","senderId":"680e21c546685a1d2da7a87f","recipientId":"680907a24341213d42a00b6a"}
+[2025-04-27 14:01:29] INFO: Application has started 
+[2025-04-27 14:01:30] INFO: Using updated server.js version 2025-04-19 
+[2025-04-27 14:01:30] INFO: Restored server.js 2025-04-30 
+[2025-04-27 14:01:30] WARN: This is a warning message 
+[2025-04-27 14:01:31] DEBUG: Applied cors middleware 
+[2025-04-27 14:01:31] DEBUG: Applied express.json middleware 
+[2025-04-27 14:01:31] DEBUG: Applied io middleware 
+[2025-04-27 14:01:31] DEBUG: authRoutes: {"type":"function"}
+[2025-04-27 14:01:31] DEBUG: userRoutes: {"type":"function"}
+[2025-04-27 14:01:31] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-27 14:01:31] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-27 14:01:31] DEBUG: Applied authRoutes 
+[2025-04-27 14:01:31] DEBUG: Applied userRoutes 
+[2025-04-27 14:01:31] DEBUG: Applied messageRoutes 
+[2025-04-27 14:01:31] DEBUG: Applied notificationRoutes 
+[2025-04-27 14:01:31] DEBUG: Applied errorHandler middleware 
+[2025-04-27 14:01:31] INFO: Server running on port 5055 
+[2025-04-27 14:01:39] INFO: MongoDB connected successfully 
+[2025-04-28 12:10:50] INFO: Application has started 
+[2025-04-28 12:10:50] INFO: Using updated server.js version 2025-04-19 
+[2025-04-28 12:10:50] INFO: Restored server.js 2025-04-30 
+[2025-04-28 12:10:50] WARN: This is a warning message 
+[2025-04-28 12:10:50] DEBUG: Applied cors middleware 
+[2025-04-28 12:10:50] DEBUG: Applied express.json middleware 
+[2025-04-28 12:10:50] DEBUG: Applied io middleware 
+[2025-04-28 12:10:50] DEBUG: authRoutes: {"type":"function"}
+[2025-04-28 12:10:50] DEBUG: userRoutes: {"type":"function"}
+[2025-04-28 12:10:50] DEBUG: messageRoutes: {"type":"function"}
+[2025-04-28 12:10:50] DEBUG: notificationRoutes: {"type":"function"}
+[2025-04-28 12:10:50] DEBUG: Applied authRoutes 
+[2025-04-28 12:10:50] DEBUG: Applied userRoutes 
+[2025-04-28 12:10:50] DEBUG: Applied messageRoutes 
+[2025-04-28 12:10:50] DEBUG: Applied notificationRoutes 
+[2025-04-28 12:10:50] DEBUG: Applied errorHandler middleware 
+[2025-04-28 12:10:50] INFO: Server running on port 5055 
+[2025-04-28 12:10:55] INFO: MongoDB connected successfully 
